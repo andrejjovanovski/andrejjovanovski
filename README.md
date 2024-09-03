@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Technologies I work with</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
