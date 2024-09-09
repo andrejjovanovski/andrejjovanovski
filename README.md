@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Breathe.MK & CarryLogistics<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about anything with web development<br>👨‍💻 All of my projects are available at https://www.jovanovskiandrej.site/<br>📄 Know about my experiences https://drive.google.com/file/d/1_nZnA1L1pS6ITqEUOlh2GtAtHvAX4pOG/view<br>📫 How to reach me andrejjovaovski17@gmail.com</p>
+<p align="left">🔭 I’m currently working on Breathe.MK & CarryLogistics<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about anything with web development<br>👨‍💻 All of my projects are available at https://www.jovanovskiandrej.site/<br>📄 Know about my experiences https://drive.google.com/file/d/1_nZnA1L1pS6ITqEUOlh2GtAtHvAX4pOG/view<br>📫 How to reach me andrejjovanovski17@gmail.com</p>
 
 ###
 
