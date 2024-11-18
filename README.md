@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Breathe.MK & MHRA(Macedonian Human Resources Association)<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about anything with web development<br>👨‍💻 All of my projects are available at https://www.jovanovskiandrej.site/<br>📄 Know about my experiences [https://drive.google.com/file/d/1_nZnA1L1pS6ITqEUOlh2GtAtHvAX4pOG/view](https://drive.google.com/file/d/1IPxbSNQWFLTwhrBjJ46nilJS2jGCvDDJ/view)<br>📫 How to reach me andrejjovanovski17@gmail.com</p>
+<p align="left">🔭 I’m currently working on Breathe.MK & MHRA(Macedonian Human Resources Association)<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about anything with web development<br>👨‍💻 All of my projects are available at https://www.jovanovskiandrej.site/<br>📄 Know about my experiences https://drive.google.com/file/d/1IPxbSNQWFLTwhrBjJ46nilJS2jGCvDDJ/view <br>📫 How to reach me andrejjovanovski17@gmail.com</p>
 
 ###
 
