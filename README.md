@@ -18,7 +18,7 @@ Currently contributing to impactful projects at Involve, I’m open to exploring
 
 ###
 
-<p align="left">🔭 I’m currently working on Breathe.MK & MHRA(Macedonian Human Resources Association)<br>🌱 I’m currently entering the world of JAVA<br>💬 Ask me about anything with web development<br>👨‍💻 All of my projects are available at https://www.andrejjovanovski.com/<br>📫 How to reach me andrejjovanovski001@gmail.com</p>
+<p align="left"><br>🌱 I’m currently entering the world of JAVA<br>💬 Ask me about anything with web development<br>👨‍💻 All of my projects are available at https://www.andrejjovanovski.com/<br>📫 How to reach me andrejjovanovski001@gmail.com</p>
 
 ###
 
