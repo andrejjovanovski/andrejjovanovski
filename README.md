@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">As a detail-oriented Full Stack Web Developer, I bring a skill set in both front-end and<br>back-end development to the table. My proficiency in crafting responsive web application is grounded in my knowledge of HTML, CSS, JavaScript, and PHP, complemented by my experience in contemporary frameworks such as React.js and Laravel. My skill set extends to designing and implementing RESTful APIs, database integration, and optimising user experience for seamless interaction.</p>
+<p align="left">I’m a Full Stack Web Developer passionate about building scalable, high-performance web applications that deliver real business value. With a strong foundation in both front-end and back-end development, I specialize in Laravel and React, crafting modern solutions that are fast, secure, and user-focused.
+
+My experience spans API design, database management, and UI development, allowing me to bridge the gap between design and functionality. I’m skilled in PHP, JavaScript (ES6+), Laravel, React, Node.js, MySQL, and RESTful API architecture, and I take pride in writing clean, maintainable code that supports long-term scalability.
+
+Driven by curiosity and continuous learning, I stay updated with emerging technologies and development best practices. I thrive in collaborative environments where innovation, efficiency, and problem-solving are valued.
+
+Currently contributing to impactful projects at Involve, I’m open to exploring new opportunities where I can apply my technical expertise, grow as an engineer, and help build software that makes a difference.
+
+📈 Let’s connect — I’m always interested in discussing new challenges, modern tech stacks, and innovative development practices.</p>
 
 ###
 
@@ -10,7 +18,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Breathe.MK & MHRA(Macedonian Human Resources Association)<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about anything with web development<br>👨‍💻 All of my projects are available at https://www.jovanovskiandrej.site/<br>📄 Know about my experiences https://drive.google.com/file/d/1IPxbSNQWFLTwhrBjJ46nilJS2jGCvDDJ/view <br>📫 How to reach me andrejjovanovski17@gmail.com</p>
+<p align="left">🔭 I’m currently working on Breathe.MK & MHRA(Macedonian Human Resources Association)<br>🌱 I’m currently entering the world of JAVA<br>💬 Ask me about anything with web development<br>👨‍💻 All of my projects are available at https://www.andrejjovanovski.com/<br>📫 How to reach me andrejjovanovski001@gmail.com</p>
 
 ###
 
